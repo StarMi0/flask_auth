@@ -1,0 +1,6 @@
+flask-login
+flask
+flask_sqlalchemy
+werkzeug
+numpy
+matplotlib
